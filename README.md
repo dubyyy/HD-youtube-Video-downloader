@@ -25,5 +25,5 @@ cd yt-video-downloader
 
 
 
-### Install dependencies
-``` pip install yt-dlp
+### Install dependencies 
+``` pip install yt-dlp  ```
